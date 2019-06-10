@@ -19,7 +19,7 @@ body {
 }
 
 a {
-  color: #9dc997;
+  color: #1A4288;
   text-decoration: none;
 }
 
@@ -88,10 +88,10 @@ Main Components
 }
 .cd-products-comparison-table .filter.active {
   cursor: pointer;
-  background-color: #9dc997;
+  background-color: #78BE20;
 }
 .no-touch .cd-products-comparison-table .filter.active:hover {
-  background-color: #a7cea1;
+  background-color: #5A8E18;
 }
 @media only screen and (min-width: 1170px) {
   .cd-products-comparison-table {
@@ -378,8 +378,8 @@ Main Components
 
 .cd-products-table .selected .top-info .check::before {
   /* green circle dot */
-  background: #9dc997;
-  border-color: #9dc997;
+  background: #78BE20;
+  border-color: #78BE20;
   -webkit-transform: scale(1.5);
   -moz-transform: scale(1.5);
   -ms-transform: scale(1.5);
